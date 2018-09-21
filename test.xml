@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book Name="AAAAA">
+    <Node Name="Introduction">
+      <Node Name="Glossary" />
+      <Node Name="References">
+        <Node Name="Normative References" />
+        <Node Name="Informative References" />
+      </Node>
+      <Node Name="Overview" />
+    </Node>
+    <Node Name="Messages">
+      <Node Name="Transport" />
+    </Node>
+    <Node Name="Details" />
+    <Node Name="Examples">
+      <Node Name="Load" />
+      <Node Name="LoadResponse" />
+    </Node>
+  </Book>
+  <Book Name="BBBBB">
+    <Node Name="Introduction">
+      <Node Name="Glossary" />
+      <Node Name="References">
+        <Node Name="A References" />
+        <Node Name="B References" />
+      </Node>
+      <Node Name="Overview" />
+    </Node>
+    <Node Name="Messages">
+      <Node Name="Transport" />
+    </Node>
+    <Node Name="Details" />
+    <Node Name="Examples">
+      <Node Name="Load" />
+      <Node Name="LoadResponse" />
+    </Node>
+  </Book>
+</Books>
