@@ -1,0 +1,41 @@
+﻿[
+  { "team": "Windows Protocols",
+    "exclusions": [
+      "MS-ADFSOD",
+      "MS-ADOD",
+      "MS-AUTHSOD",
+      "MS-AZOD",
+      "MS-CCROD",
+      "MS-CERSOD",
+      "MS-DOCO",
+      "MS-FASOD",
+      "MS-FSMOD",
+      "MS-GPOD",
+      "MS-MQOD",
+      "MS-MSSOD",
+      "MS-NAPOD",
+      "MS-NETOD",
+      "MS-PRSOD",
+      "MS-RDSOD",
+      "MS-RMSOD",
+      "MS-STOROD",
+      "MS-TPSOD",
+      "MS-WMOD",
+      "MS-VSOD",
+      "MS-WPO",
+      "MS-WSUSOD",
+      "MS-DTYP",
+      "MS-ERREF",
+      "MS-LCID",
+      "MS-UCODEREF"
+    ]
+  },
+  { "team": "SQL Server Protocols",
+    "exclusions": [
+      "MS-SQLERRATA",
+      "MS-SQLPROTLP",
+      "MS-SSREF",
+      "MS-SSSO"
+    ]
+  }
+]

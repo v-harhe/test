@@ -1,0 +1,1488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildManifest xmlns="http://schemas.microsoft.com/GenDox/BuildManifest/2015">
+  <Machines>
+    <Machine Id="1">GenDoxBuild</Machine>
+    <Machine Id="2">PROTOGEN01</Machine>
+    <Machine Id="3">GENDOXDEVBLD01</Machine>
+  </Machines>
+  <Group>
+    <Name>Office Protocols</Name>
+    <Team>Office</Team>
+    <MachineId>1</MachineId>
+    <Id>1/6/F/16F4E321-AA6B-4FA3-8AD3-E94C895A3C97</Id>
+    <PreviewId>0ca4c877-5483-4c2f-a933-96b0855d673d</PreviewId>
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip>OfficeProto.zip</Zip>
+    <Hxs Family="office" Version="12">MS-OFFPROTLP</Hxs>
+    <ReadMe>[[ReadmefirstOffProto]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-ABS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-AVEDGEA</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-CONFAS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-CONFAV</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-CONFBAS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-CONFIM</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-CONFPRO</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-CONMGMT</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-CVWREST</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-DLX</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-DTMF</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-E911WS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-ECREST</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-EUMR</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-EUMSDP</Doc>
+      <Doc>MS-GRAPHREST</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-GRVDYNM</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-GRVHENC</Doc>
+      <Doc ParentId="7b53913d-3555-42d6-b968-52d1f7c240ec" Branches="Published, Future">MS-GRVPROT</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-GRVRDB</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-GRVSPCM</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-GRVSPMR</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-GRVSSTP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-GRVSSTPS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-GRVWDPP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-H264PF</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-ICE</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-ICE2</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-ICE2BWM</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-IMESYN</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-INFODCF</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-MERX</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OBPAS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OBPRS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OCAUTHWS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OCDISCWS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OCER</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OCEXUM</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OCGCWEB</Doc>
+      <Doc>MS-OCHGTR</Doc>
+      <Doc ParentId="7b53913d-3555-42d6-b968-52d1f7c240ec" Branches="Published, Future">MS-OCPROTO</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OCPSTN</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OCSMP</Doc>
+      <Doc ParentId="7b53913d-3555-42d6-b968-52d1f7c240ec" Branches="Published, Future">MS-OCSPROT</Doc>
+      <Doc>MS-OFCGLOS</Doc>
+      <Doc ParentId="2fe94c9b-0a0f-49cf-aa30-1d80c2aef590" Branches="Published, Future">MS-OFFARCHLP</Doc>
+      <Doc ParentId="9a3ae8a2-02e5-4d05-874a-b3551405d8f9" Branches="Published, Future">MS-OFFPROTLP</Doc>
+      <Doc>MS-OFREF</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OMPWHP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-OMWWH</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PRES</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PSOM</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWBDPS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWBHPS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWBPS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Current, Future">MS-PWEDPS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWPHP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Current, Future">MS-PWVPDP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Current, Future">MS-PWVRSC</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-QoE</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-RGSWS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-RTASPF</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-RTP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-RTPRADEX</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-RTVPF</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-SDPEXT</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-SIPAE</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-SIPAPP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-SIPCOMP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd">MS-SIPCOMP2</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-SIPRE</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-SIPREGE</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-SRTP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-SSRTP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-STWEB</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-TURN</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-TURNBWM</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-UDCX</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-WOPI</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-XCCOSIP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-XMLMC</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Windows Protocols</Name>
+    <Team>Windows</Team>
+    <MachineId>2</MachineId>
+    <Id>9/5/E/95EF66AF-9026-4BB0-A41D-A4F81802D92C</Id>
+    <PreviewId>8a9c667b-2825-46a8-8066-a80681233c33</PreviewId>
+    <AllowEliminateBlankPages>true</AllowEliminateBlankPages>
+    <AzureUrl>https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/</AzureUrl>
+    <Zip>Windows_Protocols.zip</Zip>
+    <Hxs Family="PROT" Version="20">MS-WINPROTLP</Hxs>
+    <ReadMe>[[Readmefirst]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-BUP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-CCFG</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-COMQC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-CSDL</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-DPL4CS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-DPL4R</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-DPL8CS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-DPL8R</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-DPLHP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-DPLNAT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-DPLVP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-DRT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-DTCXA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-EDMX</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-IISA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-MQAC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-MQSRM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-NBFS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-NBFSE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-NBFX</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-NETCEX</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-NMF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-NPR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-PRCH</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-PRCR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-SMP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-SQLR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ABTP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADA1</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADA2</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADA3</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADCAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADDM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADFSOAL</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-ADFSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADFSPIP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADFSPP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADFSWAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADLS</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-ADOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADSC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADTG</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ADTS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-AIPS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-APDS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ASP</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-AUTHSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-AZMP</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-AZOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-BDSRR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-BKRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-BKUP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-BPAU</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-BPCR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-BPDP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-BRWS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-BRWSA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CAPR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CBCP</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-CCROD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CDP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CER</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CER2</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-CERSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CFB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CHAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CIFS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CMOM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CMP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CMPO</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CMRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-COM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-COMA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-COMEV</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-COMT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CPSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CRTD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CSRA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CSSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CSVP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-CTA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DCHT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DCLB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DCOM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DFSC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DFSNM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DFSRH</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DHA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DHCPE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DHCPF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DHCPM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DHCPN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DLNHND</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DLTCS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DLTM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DLTW</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DMCT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DMRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DNSP</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-DOCO</Doc>
+      <Doc>MS-DOP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DPDX</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DPSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DPWSRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DPWSSN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DRM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DRMCD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DRMND</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DRMRI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DRSR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DSCPM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DSLR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DSML</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DSMN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DSPA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DSSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DTAG</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DTCLU</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DTCM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DTCO</Doc>
+      <Doc ParentId="1593dc07-6116-4e9e-8aeb-85c7438fab0a" Branches="Published, Current">MS-DTYP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DVRD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DVRE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-DVRJ</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ECS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-EERR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-EFSR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-EMF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-EMFPLUS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-EMFSPOOL</Doc>
+      <Doc ParentId="1593dc07-6116-4e9e-8aeb-85c7438fab0a" Branches="Published, Current">MS-ERREF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-EVEN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-EVEN6</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-FASOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FASP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FAX</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FCIADS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FRS1</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FRS2</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FSA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FSCC</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-FSMOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FSRM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FSRVP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FSVCA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-FTPS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GKDI</Doc>
+      <Doc Branches="None">MS-GLOS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPAC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPCAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPDPC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPEF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPFAS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPFR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPIE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPIPSEC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPNAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPNRPT</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-GPOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPOL</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPPREF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPREG</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPSB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPSCR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPSI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GPWL</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-GSSA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-H245</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-H26XPF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-HCEP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-HGRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-HGSA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-HNDS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-HRL</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-HTTP2E</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-HTTPE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-HVRS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ICPR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-IISS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-IKEE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-IMSA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-IOI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-IPAMM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-IPAMM2</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-IPHTTPS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-IRDA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-IRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-KILE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-KKDCP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-KPP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-KPS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-L2TPIE</Doc>
+      <Doc ParentId="1593dc07-6116-4e9e-8aeb-85c7438fab0a" Branches="Published, Current">MS-LCID</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-LLMNRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-LLTD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-LREC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-LSAD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-LSAT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-LWSSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MAIL</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MCIS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MDE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MDE2</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MDM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MICE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MMSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MNPR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQBR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQCN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQDMPR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQDS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQDSSM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQMP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQMQ</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQMR</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-MQOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQQB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQQP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQRR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MQSD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MSB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MSBD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MSRP</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-MSSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MWBE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-MWBF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-N2HT</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-NAPOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NBTE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NCNBI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NCT</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-NETOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NETTR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NFPB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NFPS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NKPU</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NLMP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NMFMB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NMFTB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NNS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NNTP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NRBF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NRLS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NRPC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NRTP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NSPI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-NTHT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-OAPX</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-OAPXBC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-OAUT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-OCSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-OCSPA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-ODATA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-OIDCE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-OLEDS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-OLEPS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-OTPCE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PAC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PAN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PAR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PASS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PBSD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PCCRC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PCCRD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PCCRR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PCCRTP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PCHC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PCQ</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PEAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PKAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PKCA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PLA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PNRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-POP3</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PPGRH</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PPPI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PPSEC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PROPSTORE</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-PRSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PSDP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PSRDP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PSRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-PTPT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-QDP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-QLPB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RAA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RAI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RAIOP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RAIW</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RASA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RCMP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPADRV</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPBCGR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-RDPCR2</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEAI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEAR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPECAM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPECLIP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEDC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEDISP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEDYC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEECO</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEFS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEGDI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEGFX</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEGT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPELE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEMC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEMT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEPC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEPNP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEPS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPERP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPESC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPESP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPET</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEUDP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEUDP2</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEUSB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEV</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEVOR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPEXPS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPNSC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDPRFX</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-RDSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RDWR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RMPR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RMPRS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RMSI</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-RMSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RNAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RNAS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RPCE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RPCH</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RPCL</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RPRN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RRASM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RRSP2</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RSMC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RSMP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RSVD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RTPDT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RTPME</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RTPRAD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RTSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-RXAD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SAMLPR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SAMR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SAMS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SCMP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SCMR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SDP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SFMWA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SFU</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SHLLINK</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SIP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SMB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SMB2</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SMBD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SMTPNTLM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SNID</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SNTP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SPNG</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SQMCS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SQMCS2</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SQOS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SRPL</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SRVS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SSDP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SSEAN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SSTP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SSTR</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-STOROD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SWN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-SWSB</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TAIL</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TCC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TDS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-THCH</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TIPP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TLSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TNAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TPMVSC</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-TPSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TPXS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TSCH</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TSGU</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TSRAP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TSTS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TSWP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-TVTT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-UAMG</Doc>
+      <Doc ParentId="1593dc07-6116-4e9e-8aeb-85c7438fab0a" Branches="Published, Current">MS-UCODEREF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-UNMP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-UPIGD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-UPMC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-V4OF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-VAPR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-VDS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-VHDX</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-VSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-VUVP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-W32T</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WCCE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WCFESAN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WDHCE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WDSC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WDSMA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WDSMSI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WDSMT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WDSOSD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WDV</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WDVSE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WFDAA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WFDPE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WFIM</Doc>
+      <Doc ParentId="0e8d1c2b-0f3b-4099-833b-db27f7a9dbe8" Branches="Published, Current">MS-WINERRATA</Doc>
+      <Doc ParentId="9a3ae8a2-02e5-4d05-874a-b3551405d8f9" Branches="Published, Current">MS-WINPROTLP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WINSRA</Doc>
+      <Doc Branches="Current">MS-WINSTECHLP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WKST</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WMF</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WMHTTP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WMI</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WMIO</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WMLOG</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-WMOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WMSP</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-WPO</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WPRN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSDS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSH</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSMAN</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSMV</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSPE</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSPELD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSPOL</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSRM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSRVCAT</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSRVCRM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSRVCRR</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSTC</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSTEP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSTIM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSUSAR</Doc>
+      <Doc ParentId="4a1806f9-2979-491d-af3c-f82ed0a4c1ba" Branches="Published, Current">MS-WSUSOD</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WSUSSS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WUSP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-XCA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-XCEP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-XOPP</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>SharePoint Protocols</Name>
+    <Team>Office</Team>
+    <MachineId>1</MachineId>
+    <Id>8/5/8/858F2155-D48D-4C68-9205-29460FD7698F</Id>
+    <PreviewId>c255ffcf-2881-4bd8-876a-b297f43faf64</PreviewId>
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip>SharePointProtocols.zip</Zip>
+    <Hxs Family="office" Version="12">MS-SPPROTLP</Hxs>
+    <ReadMe>[[ReadmefirstSharePointProto]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MC-FPSEWM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-AADT</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ACCDT</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ACMAUDWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ADMINS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ADMWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ADR</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ADR2</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ADS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ALERTSS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-APPMWSP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ART</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ASDT</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ASWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-AUTHWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-AXL</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-AXL2</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-BCSDPFFS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-BCSDWPS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-BDCDP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-BDCMFFS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-BDCMP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-BDCRAWPS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-BDCWPS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-CDEPLOY</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-CIFO</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-COMMCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-CONATB</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-COPYS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-CPSWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-CSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-CSOMREST</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-CSOMSPT</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-DADMWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-DMCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-DOCSWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-DOCTRANS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-DSPSTSS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-DWSS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EAWF</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ECTPWPS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EDCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EDINTWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EDSA</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EMMCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EMMWCF</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EMMWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ESP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ESREST</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-ESURL</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EXSPWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EXSPWS2</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EXSPWS3</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EXSPXML</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-EXSPXML3</Doc>
+      <Doc ParentId="c255ffcf-2881-4bd8-876a-b297f43faf64" Branches="Published, Future">MS-FILESYNC</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-FORMS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-FPSE</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-FQL2</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-FSDAP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-FSFDP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-FSPP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-FSSHTTP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-FSSHTTPB</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-FSSHTTPD</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-GLOADWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-IMAGS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-IPDSP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-IPFF</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-IPFF2</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-IPFFX</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-KQL</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-LISTSWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-MAR</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-MEETS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-METAWEB</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-NOTESWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-OAUTH2EX</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-OFBA</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-OFFICIALFILE</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-OMS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-OOWQWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-OSALER</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-OSCO</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-OUTSPS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PASCWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PEOPS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PERMS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PLSP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PPSAPP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PPSAS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PPSDECO</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PRIMEPF</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PRSTFR</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PUBCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-PUBWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-QSSWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SADMWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SEARCH</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SHDACCWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SITED3S</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SITEDATS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SITESS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SLIDELI</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SOCCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPACSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPAFWI</Doc>
+      <Doc ParentId="2fe94c9b-0a0f-49cf-aa30-1d80c2aef590" Branches="Published, Future">MS-SPARCHLP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPASA</Doc>
+      <Doc>MS-SPCHGTR</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPDIAG</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPEMAWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPLCHK</Doc>
+      <Doc ParentId="3f4728e8-69fc-40ca-829c-d43e57e35239" Branches="Published, Future">MS-SPO</Doc>
+      <Doc ParentId="9a3ae8a2-02e5-4d05-874a-b3551405d8f9" Branches="Published, Future">MS-SPPROTLP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPPTC</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPRSS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPS2SAUTH</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPSCRWL</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPSETWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPSTWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPTWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SPWFCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SQP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SQP2</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SRCHCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SSP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-SSWPS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-STSSYN</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-TMPLDISC</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-TSCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-TSWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UGS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPFCWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPIEWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPSCDS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPSCP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPSCWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPSDWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPSLDAP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPSMODS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPSSCXPP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-UPWCFWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-USPSWS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-USRPCH</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-VERSS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-VGSFF</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-VGSP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-VIEWSS</Doc>
+      <Doc ParentId="c255ffcf-2881-4bd8-876a-b297f43faf64" Branches="Published, Future">MS-VROOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-VSDX</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WDVME</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WDVMODUU</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WEBDAVE</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WEBSS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WMCSOM</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WMS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WORDSWCF</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WPPS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WSSCAML</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WSSCAP</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WSSFO</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WSSFO2</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WSSFO3</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WSSFOB</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WSSHP</Doc>
+      <Doc ParentId="3f4728e8-69fc-40ca-829c-d43e57e35239" Branches="Published, Future">MS-WSSO</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WSSREST</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WSSTS</Doc>
+      <Doc ParentId="51f9ccbf-ea59-4bb5-9fe6-27bc5af855ff" Branches="Published, Future">MS-WWSP</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Exchange Server Protocols</Name>
+    <Team>Exchange</Team>
+    <MachineId>1</MachineId>
+    <Id>5/D/D/5DD33FDF-91F5-496D-9884-0A0B0EE698BB</Id>
+    <PreviewId>90b4abc7-c198-4b87-93e8-76ec03c9938d</PreviewId>
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip>Exchange_Protocols.zip</Zip>
+    <Hxs Family="EXCHG" Version="80">MS-OXPROTLP</Hxs>
+    <ReadMe>[[ReadmefirstExProto]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASAIRS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASCAL</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASCMD</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASCNTC</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASCON</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASDOC</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASDTYPE</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASEMAIL</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASHTTP</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASMS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASNOTE</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASPROV</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASRM</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASTASK</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-ASWBXML</Doc>
+      <Doc ParentId="1cb0a523-54fd-4ccc-a9e5-01e872773e10" Branches="Published, Future">MS-MCI</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXABREF</Doc>
+      <Doc Branches="Future">MS-OXARCHLP</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXBBODY</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCDATA</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCEXT</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCFOLD</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCFXICS</Doc>
+      <Doc>MS-OXCHGTR</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCICAL</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCMAIL</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCMAPIHTTP</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCMSG</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCNOTIF</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCPERM</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCPRPT</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCROPS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCRPC</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCSPAM</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCSTOR</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXCTABL</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXDISCO</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXDSCLI</Doc>
+      <Doc>MS-OXGLOS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXIMAP4</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXLDAP</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXMSG</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXNSPI</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOAB</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOABK</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOABKT</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOCAL</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOCFG</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOCNTC</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXODLGT</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXODOC</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOFLAG</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOJRNL</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOMSG</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXONOTE</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOPFFB</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOPOST</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXORMDR</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXORMMS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXORSS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXORULE</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOSFLD</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOSMIME</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOSMMS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOSRCH</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOTASK</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXOUM</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXPFOAB</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXPHISH</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXPOP3</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXPROPS</Doc>
+      <Doc ParentId="9a3ae8a2-02e5-4d05-874a-b3551405d8f9" Branches="Published, Future">MS-OXPROTLP</Doc>
+      <Doc ParentId="5b616fcc-5885-448d-8406-3d1cca6f5619" Branches="Published, Future">MS-OXPROTO</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXPSVAL</Doc>
+      <Doc>MS-OXREF</Doc>
+      <Doc>MS-OXRESTOLPS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXRTFCP</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXRTFEX</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXSHARE</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXSHRMSG</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXSMTP</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXTNEF</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXVCARD</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWAVLS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWCONFIG</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWMT</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWOAB</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWOOF</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSADISC</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSARCH</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSATT</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSBTRF</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSCDATA</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSCEXT</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSCONT</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSCONV</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSCORE</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSCOS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSCVTID</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSDLGM</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSDLIST</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSEDISC</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSFOLD</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSGNI</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSGTRM</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSGTZ</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSITEMID</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSLVID</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSMSG</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSMSHR</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSMTGS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSMTRK</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSNTIF</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSOLPS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSPED</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSPERS</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSPHOTO</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSPOST</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSPSNTIF</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSRSLNM</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSRULES</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSSMBX</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSSRCH</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSSYNC</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSTASK</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSURPT</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSUSRCFG</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWSXPROP</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-OXWUMS</Doc>
+      <Doc ParentId="1cb0a523-54fd-4ccc-a9e5-01e872773e10" Branches="Published, Future">MS-PATCH</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-XJRNL</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-XLOGIN</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-XOAUTH</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-XWDCAL</Doc>
+      <Doc ParentId="229f77ea-6518-4fe7-84fe-bd535fc6c32e" Branches="Published, Future">MS-XWDVSEC</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>SQL Server Protocols</Name>
+    <Team>SQL</Team>
+    <MachineId>2</MachineId>
+    <Id>7/9/3/79326E29-1E2E-45EE-AA73-74043587B17D</Id>
+    <PreviewId>9523bb93-328f-4e27-9b1b-a0aab77ebcf0</PreviewId>
+    <AllowEliminateBlankPages>true</AllowEliminateBlankPages>
+    <AzureUrl>https://sqlprotocoldoc.blob.core.windows.net/productionsqlarchives/</AzureUrl>
+    <Zip>SQLServerProtocols.zip</Zip>
+    <Hxs Family="SQL" Version="105">MS-SQLPROTLP</Hxs>
+    <ReadMe>[[ReadmefirstSQL]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-ASUR</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-BINXML</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-CEPM</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-DSDG</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-DSDIFFGRAM</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-LETSF</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-ODBCSTR</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-OLEDBSTR</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RDL</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RGDI</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RPL</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSREST</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSWSRE2005</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSWSRM2010</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSWSRMNM2005</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSWSRMSM2006</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSWSSFA</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SCCSTR</Doc>
+      <Doc Branches="Current">MS-SQLARCHLP</Doc>
+      <Doc ParentId="2efaa6c9-699e-4e2c-9ea7-d342ad51a988" Branches="Published, Current">MS-SQLERRATA</Doc>
+      <Doc ParentId="9a3ae8a2-02e5-4d05-874a-b3551405d8f9" Branches="Published, Current">MS-SQLPROTLP</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SQLRS</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSAS</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSAS-T</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSAS8</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSCLRT</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSDPWP</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSMDSWS</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSMDSWS-15</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSNWS</Doc>
+      <Doc ParentId="16da1a6b-276c-404f-8ce8-13472b9de232" Branches="Published, Current">MS-SSREF</Doc>
+      <Doc ParentId="f70b3936-14e4-4b43-b242-acbb527328c5" Branches="Published, Current">MS-SSSO</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSTDS</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-XSSK</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Exchange Standards</Name>
+    <Team>Exchange</Team>
+    <MachineId>1</MachineId>
+    <Id>9/1/D/91D015B5-C439-40E7-94F3-CBFCF2B04D49</Id>
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip>Exchange_Standards.zip</Zip>
+    <Hxs Family="EXCHG" Version="80">MS-OXSTANDLP</Hxs>
+    <ReadMe>[[ReadmefirstMSExStand]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Future">MS-OXSTANDLP</Doc>
+      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANOICAL</Doc>
+      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANOIMAP</Doc>
+      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANOPOP3</Doc>
+      <Doc>MS-STANOXCHGTR</Doc>
+      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANXICAL</Doc>
+      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANXIMAP</Doc>
+      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANXPOP3</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Office Standards</Name>
+    <Team>Office</Team>
+    <MachineId>1</MachineId>
+    <Id>D/3/3/D334A189-E51B-47FF-B0E8-C0479AFB0E3C</Id>
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip>MSOFFSTAND.zip</Zip>
+    <Hxs Family="office" Version="12">MS-OFFSTANDLP</Hxs>
+    <ReadMe>[[ReadMeFirstOStand]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-CUSTOMUI2</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-CUSTOMUI</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-DOCX</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-ODRAWXML</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OE376</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OFFMACRO2</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OFFMACRO</Doc>
+      <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Future">MS-OFFSTANDLP</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OI29500</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OODF2</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OODF3</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OODF</Doc>
+      <Doc>MS-OSTANCHGTR</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OWEXML</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-PPTX</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-XLSX</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>SQL Standards</Name>
+    <Team>SQL</Team>
+    <MachineId>2</MachineId>
+    <Id>0/1/D/01D44505-E09D-4CFE-BDD6-2880B09D631B</Id>
+    <AllowEliminateBlankPages>true</AllowEliminateBlankPages>
+    <AzureUrl>https://sqlprotocoldoc.blob.core.windows.net/productionsqlarchives/</AzureUrl>
+    <Zip>SQLServerStandards.zip</Zip>
+    <Hxs Family="SQL" Version="105">MS-SQLSTANDLP</Hxs>
+    <ReadMe>[[ReadmefirstSQL]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Current">MS-SQLSTANDLP</Doc>
+      <Doc ParentId="89fb00b1-4b9e-4296-92ce-a2b3f7ca01d2" Branches="Published, Current">MS-SQLXQUERY</Doc>
+      <Doc ParentId="89fb00b1-4b9e-4296-92ce-a2b3f7ca01d2" Branches="Published, Current">MS-TSQLISO02</Doc>
+      <Doc ParentId="89fb00b1-4b9e-4296-92ce-a2b3f7ca01d2" Branches="Published, Current">MS-TSQLISO03</Doc>
+      <Doc ParentId="89fb00b1-4b9e-4296-92ce-a2b3f7ca01d2" Branches="Published, Current">MS-TSQLISO11</Doc>
+      <Doc ParentId="89fb00b1-4b9e-4296-92ce-a2b3f7ca01d2" Branches="Published, Current">MS-TSQLISO14</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>OData Standards</Name>
+    <Team>SQL</Team>
+    <MachineId>2</MachineId>
+    <Id>8/A/6/8A67E3A1-2CD2-4E42-8459-D490EEBFA65C</Id>
+    <AllowEliminateBlankPages>true</AllowEliminateBlankPages>
+    <AzureUrl>https://sqlprotocoldoc.blob.core.windows.net/productionsqlarchives/</AzureUrl>
+    <Zip>ODataStandards.zip</Zip>
+    <Hxs Family="SQL" Version="105">MS-SQLODSTANDLP</Hxs>
+    <ReadMe>[[ReadmefirstOSS]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Current">MS-SQLODSTANDLP</Doc>
+      <Doc ParentId="89584d21-315b-4ae7-8a4d-cf1e8dc6e8de" Branches="Published, Current">MS-ODATAJSON</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>IE Standards</Name>
+    <Team>IE</Team>
+    <MachineId>1</MachineId>
+    <Id>8/4/2/8427CF1B-08B3-4557-952D-102E7A8FA64C</Id>
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/web/</AzureUrl>
+    <Zip>IEStandDoc.zip</Zip>
+    <Hxs Family="VS" Version="85">MS-IESTANDLP</Hxs>
+    <ReadMe>[[ReadmefirstInternetExplorer]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ARIA</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CANVAS2D</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CORE-AAM</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CORS</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CORSXF</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CSP2</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CSS21</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CSS21E</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CSS3COLR</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CSS3MQ</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CSS3NS</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CSS3SEL</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-CSSATTR</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM1</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM1X</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2C</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2CE</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2CEX</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2CX</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2E</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2EE</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2H</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2S</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2TR</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM2V</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM3C</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-DOM4</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ECMA402</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ECMA404</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ELTRAV</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-EME</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-EPUB3</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ES2016</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ES2017</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ES2017-INTL</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ES3</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ES3EX</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ES5</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ES51</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ES5EX</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ES6</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ESI2</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-GEOLOC</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-HIREST</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-HTML401</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-HTML401E</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-HTML5</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-HTML51</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-HTML52</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-HTML5E</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679458" Branches="Published, Current">MS-IEDOCO</Doc>
+      <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Current">MS-IESTANDLP</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-INDEXDB</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-INDEXEDDB-2</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ISO10646</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ISO14496-10</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-ISO8859</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-JPEG</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-LONGDESC</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-MEDIA-SOURCE</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-NAVTIM</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-P3P</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-PAGEVIS</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-PDF</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-PERFTL</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-PICSL</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-PICSRL</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-PICSRS</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-PNG</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-POINTER</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-POINTERLOCK</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-RUBY</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-SELAPI1</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-SRI</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-SVG</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-TOUCH</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-TTML</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-USERTIM</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WAI-ARIA-11</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WCAG21</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WEBCRYPTO</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="None">MS-WEBDRIVER</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WEBIDL1</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WEBMSG</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WEBNOT</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WEBSTG</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WEBSTG2</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WOFF1</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-WOFF2</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XHTML</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XML</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XMLH</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XMLNS</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XMLNSH</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XMLSD</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XMLSS</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XMLSTYL</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XPATH</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XPATHH</Doc>
+      <Doc ParentId="8aea05e3-8c1e-4a9a-9614-31f71e679459" Branches="Published, Current">MS-XSLT</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Office File Formats</Name>
+    <Team>Office</Team>
+    <MachineId>1</MachineId>
+    <Id>2/4/8/24862317-78F0-4C4B-B355-C7B2C1D997DB</Id>
+    <PreviewId>8299af2a-b10d-4576-915f-79e9b7416869</PreviewId>
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip>OfficeFileFormatsProtocols.zip</Zip>
+    <Hxs Family="office" Version="12">MS-OFFFFLP</Hxs>
+    <ReadMe>[[ReadmefirstOffFileFormat]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-3DMDTP</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-CTDOC</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-CTXLS</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-DOC</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-DSEXPORT</Doc>
+      <Doc>MS-FFCHGTR</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-ODCFF</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-ODRAW</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-OFFCRYPTO</Doc>
+      <Doc ParentId="885c7947-17de-490b-840d-91231a031383" Branches="Published, Future">MS-OFFDI</Doc>
+      <Doc ParentId="a2bc1311-e0e7-4808-970a-4dc0a100f708" Branches="Published, Future">MS-OFFFFLP</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-OFORMS</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-OGRAPH</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-ONE</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-ONESTORE</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-OSHARED</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-OVBA</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-OWEMXML</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-PPT</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-PST</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-QDEFF</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-QDEIF</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-WORDLFF</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-XLDM</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-XLS</Doc>
+      <Doc ParentId="6ae2fd93-51fc-4e75-a54a-1b175c627b51" Branches="Published, Future">MS-XLSB</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>SQL Data Portability</Name>
+    <Team>SQL</Team>
+    <MachineId>2</MachineId>
+    <Id>1/7/5/175A7833-6F75-418D-8800-86D44D1D712D</Id>
+    <AllowEliminateBlankPages>true</AllowEliminateBlankPages>
+    <AzureUrl>https://sqlprotocoldoc.blob.core.windows.net/productionsqlarchives/</AzureUrl>
+    <Zip>SQLServerDataPortability.zip</Zip>
+    <Hxs Family="SQL" Version="105">MS-SQLPORTLP</Hxs>
+    <ReadMe>[[ReadmefirstSQL]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-BCP</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-CONNMGR</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-CSDLBI</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-DACPAC</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPAD</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPBACPAC</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPBCP</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPDACPAC</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPDQS</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPEDMX</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPEDM</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPIS</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPMDS</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPPDW</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPRDL</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPREP</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPSMDL</Doc>
+      <Doc ParentId="01e865dd-5054-4d83-a87a-91afd67d59a5" Branches="Published, Current">MS-DPSSAS</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-DTSX2</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-DTSX</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-DTS</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-ISPAC</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-MSL</Doc>
+      <Doc ParentId="0e8d1c2b-0f3b-4099-833b-db27f7a9dbe8" Branches="Published, Current">MS-ODATAERRATA</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-RDLRS</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-SMDL</Doc>
+      <Doc ParentId="a2bc1311-e0e7-4808-970a-4dc0a100f708" Branches="Published, Current">MS-SQLPORTLP</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-SSDL</Doc>
+      <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-SSISPARAMS</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Microsoft General Purpose Programming Languages</Name>
+    <Team>Office</Team>
+    <MachineId>1</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip>GeneralPurposeProgrammingLanguages.zip</Zip>
+    <Hxs Family="PROT" Version="20">MS-PROGLANGLP</Hxs>
+    <ReadMe>[[ReadmefirstGenPurpProgLang]].pdf</ReadMe>
+    <Docs>
+      <Doc ParentId="63bd758c-9134-4ea3-9a74-566b27e92046" Branches="Published, Future">MS-PROGLANGLP</Doc>
+      <Doc ParentId="a0fa63f3-19ba-4525-a22f-f0ab65dc015d" Branches="Published, Future">MS-VBAL</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Microsoft Domain Specific Languages</Name>
+    <Team>Windows</Team>
+    <MachineId>2</MachineId>
+    <Id>0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E</Id>
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/</AzureUrl>
+    <Zip>MicrosoftComputerLanguages.zip</Zip>
+    <Hxs Family="PROT" Version="20" />
+    <Docs>
+      <Doc>MS-SLXV</Doc>
+      <Doc>MS-SLXV-2010</Doc>
+      <Doc>MS-WPFXV</Doc>
+      <Doc>MS-WPFXV-2010</Doc>
+      <Doc>MS-WPFXV-2012</Doc>
+      <Doc>MS-XAML</Doc>
+      <Doc>MS-XAML-2009</Doc>
+      <Doc>MS-XAML-2012</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>LCA Landing Pages</Name>
+    <Team>LCA</Team>
+    <MachineId>1</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs>
+      <Doc Branches="Published, Current">MS-ARCHIVELP</Doc>
+      <Doc Branches="Current">MS-COMPLANLP</Doc>
+      <Doc Branches="Published, Current">MS-DATAPORTLP</Doc>
+      <Doc Branches="Current">MS-DEVCENTER</Doc>
+      <Doc Branches="Current">MS-DEVCENTLP</Doc>
+      <Doc Branches="Published, Current">MS-DOCPROGLP</Doc>
+      <Doc Branches="Published, Current">MS-OPENSPECLP</Doc>
+      <Doc Branches="Current">MS-PROTOCOLSLP</Doc>
+      <Doc Branches="Published, Current">MS-STDSUPLP</Doc>
+      <Doc Branches="Published, Current">MS-WINARCHLP</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Wordpad Standards Support</Name>
+    <Team>Office</Team>
+    <MachineId>2</MachineId>
+    <Id>6/0/E/60EBE400-962D-4B68-92A6-9818644808DA</Id>
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/</AzureUrl>
+    <Zip>Windows_Wordpad_Standards_Support.zip</Zip>
+    <Hxs Family="PROT" Version="20">MS-WINWPSTANDLP</Hxs>
+    <Docs>
+      <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Current">MS-WINWPSTANDLP</Doc>
+      <Doc ParentId="6cb7c35f-d50e-4dd6-96c0-5656398c8d39" Branches="Published, Current">MS-WPE376</Doc>
+      <Doc ParentId="6cb7c35f-d50e-4dd6-96c0-5656398c8d39" Branches="Published, Current">MS-WPODF</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Office Internal - DO NOT USE</Name>
+    <Team>Office</Team>
+    <MachineId>1</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs>
+      <Doc>MS-CANARY</Doc>
+      <Doc>MS-CANARYBLOCK</Doc>
+      <Doc>MS-DMCBXML</Doc>
+      <Doc>MS-DMCCCAL</Doc>
+      <Doc>MS-DMCCCOM</Doc>
+      <Doc>MS-DMCCCON</Doc>
+      <Doc>MS-DMCCM</Doc>
+      <Doc>MS-DMCCP</Doc>
+      <Doc>MS-DMCHSC</Doc>
+      <Doc>MS-GRAPHNONPROT</Doc>
+      <Doc>MS-SOAPDOC</Doc>
+      <Doc>MS-VNEXTTEST</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Exchange Internal - DO NOT USE</Name>
+    <Team>Exchange</Team>
+    <MachineId>1</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs>
+      <Doc>MS-OXCANARY</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>IE Internal - DO NOT USE</Name>
+    <Team>IE</Team>
+    <MachineId>1</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs />
+  </Group>
+  <Group>
+    <Name>SQL Internal - DO NOT USE</Name>
+    <Team>SQL</Team>
+    <MachineId>2</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs />
+  </Group>
+  <Group>
+    <Name>Windows Internal - DO NOT USE</Name>
+    <Team>Windows</Team>
+    <MachineId>2</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/</AzureUrl>
+    <Zip>Windows_Internal.zip</Zip>
+    <Watermark>Internal</Watermark>
+    <Docs>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-ADFSMFA</Doc>
+      <Doc Branches="None">MS-BLANK160120</Doc>
+      <Doc Branches="None">MS-BLANKTEST</Doc>
+      <Doc Branches="None">MS-BLOCKTEST</Doc>
+      <Doc Branches="None">MS-BLOCKTEST2</Doc>
+      <Doc ParentId="00000000-0000-0000-0000-000000000001" Branches="Future">MS-BLOCKTEST3</Doc>
+      <Doc Branches="None">MS-C-ALGORITHM</Doc>
+      <Doc Branches="None">MS-C-BLANK</Doc>
+      <Doc Branches="None">MS-C-BLOCK</Doc>
+      <Doc Branches="None">MS-C-CONFORM</Doc>
+      <Doc Branches="None">MS-C-HTTP</Doc>
+      <Doc Branches="None">MS-C-OVERVIEW</Doc>
+      <Doc>MS-C-OVERVIEW-1</Doc>
+      <Doc Branches="None">MS-C-RPC</Doc>
+      <Doc Branches="None">MS-C-SOAP</Doc>
+      <Doc>MS-C-STRUCTURE</Doc>
+      <Doc>MS-C-VANILLA</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-CCMRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-CDVM</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-CMCP</Doc>
+      <Doc Branches="None">MS-CMRPTRAINING</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-CRTP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-CSCP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-CSVFS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-CVBUS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-FCCW</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-HFSS</Doc>
+      <Doc Branches="None">MS-HTTP160120</Doc>
+      <Doc Branches="None">MS-HTTPTEST</Doc>
+      <Doc Branches="None">MS-HTTPTEST3</Doc>
+      <Doc Branches="None">MS-HTTPTEST4</Doc>
+      <Doc Branches="None">MS-HTTPTEST5</Doc>
+      <Doc Branches="None">MS-HTTPTEST6</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-IPPBD</Doc>
+      <Doc Branches="None">MS-JSONTEST</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-RBRP</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-RDAS</Doc>
+      <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Current">MS-RDPPE</Doc>
+      <Doc Branches="None">MS-RPCTEST</Doc>
+      <Doc Branches="None">MS-RPCTEST2</Doc>
+      <Doc ParentId="00000000-0000-0000-0000-000000000001" Branches="Future">MS-RPCTEST3</Doc>
+      <Doc Branches="None">MS-SOAPTEST</Doc>
+      <Doc>MS-SOAPTEST3</Doc>
+      <Doc Branches="None">MS-STRUCTTEST</Doc>
+      <Doc>MS-STRUCTTEST2</Doc>
+      <Doc Branches="None">MS-VANILLATEST</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Office Archive - DO NOT USE</Name>
+    <Team>Office</Team>
+    <MachineId>1</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs>
+      <Doc>MS-ADMS</Doc>
+      <Doc>MS-CSS3BB</Doc>
+      <Doc>MS-DMCCS</Doc>
+      <Doc>MS-ORSS</Doc>
+      <Doc>MS-REF</Doc>
+      <Doc>MS-SECO</Doc>
+      <Doc>MS-TGP</Doc>
+      <Doc>MS-UPSCDAP</Doc>
+      <Doc>MS-UPSDBDAP</Doc>
+      <Doc>MS-URP</Doc>
+    </Docs>
+  </Group>
+  <Group>
+    <Name>Exchange Archive - DO NOT USE</Name>
+    <Team>Exchange</Team>
+    <MachineId>1</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs />
+  </Group>
+  <Group>
+    <Name>IE Archive - DO NOT USE</Name>
+    <Team>IE</Team>
+    <MachineId>1</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs />
+  </Group>
+  <Group>
+    <Name>SQL Archive - DO NOT USE</Name>
+    <Team>SQL</Team>
+    <MachineId>2</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs />
+  </Group>
+  <Group>
+    <Name>Windows Archive - DO NOT USE</Name>
+    <Team>Windows</Team>
+    <MachineId>2</MachineId>
+    <Id />
+    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
+    <Zip />
+    <Docs>
+      <Doc Branches="None">MS-CHGTR</Doc>
+      <Doc Branches="None">MS-DISO</Doc>
+      <Doc>MS-HTTP2P</Doc>
+      <Doc Branches="None">MS-RAMP</Doc>
+      <Doc>MS-SYS</Doc>
+    </Docs>
+  </Group>
+</BuildManifest>
